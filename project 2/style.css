@@ -1,0 +1,74 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+
+    width: 95%;
+    margin: 20px;
+    
+}
+
+ul{
+    display: flex;
+
+}
+
+li{
+    list-style: none;
+    margin: 24px;
+}
+
+.contact-btn{
+    height: 25%;
+    margin-top: 25px;
+    margin-left: 40%;
+    width: 100px;
+    
+    text-align: center;
+    
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-section{
+
+    width:30% ;
+    margin-right: 55px;
+}
+
+h1{
+    font-size: 55px;
+    color: darkblue;
+}
+
+span{
+    color: blue;
+}
+
+
+.service-btn{
+    margin-top: 30px;
+}
+
+
+
+button{
+    margin: 10px;
+    padding: 8px;
+    /* height: 20px; */
+
+    border-radius: 10px;
+
+color: white;
+background-color: blueviolet;
+border: white;
+}
